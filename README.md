@@ -1,0 +1,1 @@
+This program generates random colours along with their hexadecimal codes. It also provides us with the hexadecimal code of its complimentary colour. This program uses HTML, CSS and vanilla JavaScript. You can also copy the hexadecimal code to your clipboard in just one-click !
